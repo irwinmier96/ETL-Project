@@ -1,3 +1,7 @@
+Here is the link to my dashboard
+https://public.tableau.com/profile/magnus.acquah.doughan#!/vizhome/citibikeanalysis_15610967786440/stationspopularitychangesovertime
+
+
 # Tableau Assignment - Citi Bike Analytics
 
 ## Background
